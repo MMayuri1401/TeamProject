@@ -1,0 +1,14 @@
+git int
+git config --global user.email"mahadwadmayuri@gmail.com"
+git config --global user.name"MMayuri1401"
+git status
+git add feature.txt
+git commit -m"addednewfile"
+git remote add origin "https://github.com/MMayuri1401/TeamProject.git"
+git remote
+git status
+git push -u origin master
+git chekout collaborator
+git checkout collaborator
+git pull origin master
+git merge collaborator
